@@ -1,4 +1,4 @@
-package test;
+package futbol;
 
 public class Portero extends Futbolista{
 	
